@@ -1,0 +1,17 @@
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.deps.json
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Service.pdb
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.AssemblyInfo.cs
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\refint\Talabat.Service.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.pdb
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\ref\Talabat.Service.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Core.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Repository.dll
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Repository.pdb
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\bin\Debug\net8.0\Talabat.Core.pdb
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\projects\Backend(Asp.net)\Web APIs\TalabatAPIs\Talabat.Service\obj\Debug\net8.0\Talabat..89B18B2E.Up2Date
